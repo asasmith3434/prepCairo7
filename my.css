@@ -2,6 +2,9 @@ html
 
 
 img { float: left;
+    width: 200px;
+    height: 200px; 
+    border-style: dotted;
 }
 p{
     font-family: "Times New Roman", Times, serif;
